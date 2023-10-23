@@ -4,3 +4,5 @@
 <P>buat flowchart dan penjelesan program luas dan keliling lingkaran </P>
 <P>lalu screenshot hasil eksekusi program dan flowchart </P>
 <P>simpan project ke repository praktikum 3 </P>
+
+![gambar] (Screenshot(22).png)
